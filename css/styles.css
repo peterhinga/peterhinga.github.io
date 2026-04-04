@@ -1,5 +1,5 @@
 .footer {
-  background-color: whitesmoke;
+  background-color: #181a1b;
   padding: 3rem 1.5rem 6rem;
 }
 
@@ -12,6 +12,7 @@ body {
   padding-bottom: 6rem;
   min-height: 100%;
   font-family: "Crimson Text", "Georgia", serif;
+ 
 }
 
 .page-footer {
@@ -34,6 +35,30 @@ body {
 }
 
 .hero.is-primary {
-  background-color: #FF8C69;
+  background-color: #b83227;
   color: white;
+}
+.nav, .section, .page-footer, body, .nav-toggle, .nav-item, .is-active{
+   background-color: #0d0d0d;
+}
+.box{
+  background-color: #1e1e1e;
+}
+.content{
+  font-family: monospace;
+  color: rgb(169, 167, 167);
+}
+
+.title{
+  font-family: "Crimson Text", "Georgia", serif;
+  color: #c6c1b9;
+}
+
+.subtitle{
+  color: #c6c1b9;
+}
+.card{
+  background-color: #1e1e1e;
+  border: solid #1e1e1e 2px;
+  border-radius: 15px;
 }
