@@ -1,0 +1,17 @@
+# Site settings
+name: h1n64
+email: email
+url: url
+description: "blogging and projects"
+author: "h1n64"
+title: "The scripted Life"
+permalink: pretty
+baseurl: /
+
+# social
+github:
+  username: peterhinga
+
+linkedin:
+  username: peterhinga
+
